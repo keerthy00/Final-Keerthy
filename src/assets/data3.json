@@ -1,0 +1,9 @@
+[
+    { "label": "Mo", "value": 75 },
+    { "label": "Tu", "value": 62 },
+    { "label": "We", "value": 98 },
+    { "label": "Th", "value": 125 },
+    { "label": "Fr", "value": 182 },
+    {"label": "Sa", "value": 223 },
+    {"label": "Su", "value": 207 }
+]

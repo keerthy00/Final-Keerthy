@@ -1,0 +1,9 @@
+[
+    { "label": "Jan", "value": 7.5 },
+    { "label": "Feb", "value": 6.2 },
+    { "label": "Mar", "value": 9.8 },
+    { "label": "Apr", "value": 12.5 },
+    { "label": "May", "value": 18.2 },
+    {"label": "Jun", "value": 22.3 },
+    {"label": "Jul", "value": 20.7 }
+]
